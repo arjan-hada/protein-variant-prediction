@@ -1,4 +1,8 @@
 data/fitness_by_mutation_rep7868aav2.pkl
 data/rep7868aav2_emb_esm1v.pkl
 data/rep7868aav2_preds_emb_esm1v.csv
-scripts/mh_mcmc_sampler.py
+data/sampled_sequences.csv
+data/traj_01_10.csv
+scripts/best_seqs.sh
+scripts/insilico_de.py
+scripts/insilico_de.sh
