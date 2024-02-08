@@ -1,4 +1,4 @@
-Collection of notebooks with supervised and unsupervised strategies for protein variant fitness prediction and in-silico directed evolution.
+Collection of notebooks with supervised and zero-shot strategies for protein variant fitness prediction, and in-silico directed evolution.
 
 | Notebook | Keywords                           |
 |--------|-------------------------------------------------------------------------------------|
